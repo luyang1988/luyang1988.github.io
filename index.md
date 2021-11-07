@@ -17,7 +17,7 @@
 # Work Experiences
 10/2021–Present	&nbsp;&nbsp;&nbsp; Professor, Master Instructor, School of Computer Science and Technology, Shandong Jianzhu University
 
-8/2016–9/2021 &nbsp;&nbsp;&nbsp;&nbsp; Lecturer, School of Computer Science and Technology, Shandong University of Finance and Economics
+8/2016–9/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecturer, School of Computer Science and Technology, Shandong University of Finance and Economics
 
 # Funds
 1. Study on key problems of finger vein recognition for embedded applications, Nation Natural Science Foundation of China (NSFC), 2021.01-2024.12.
