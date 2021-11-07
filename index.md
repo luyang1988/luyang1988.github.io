@@ -10,9 +10,9 @@
   I'm Lu Yang (杨璐), I currently a Professor with the School of Computer Science and Techonology, Shandong Jianzhu University. I received the Ph.D. degree from the Shandong University, Jinan China, advised by Prof. Yilong Yin and Prof. Gongping Yang. My research focused on biometrics and pattern recognition. I obtained my bachelor's degree in Shandong University of Technology, Zibo China, in 2011.  
   
 # Educational Experiences
-7/2011–6/2016   PhD, School of Computer Science and Technology, Shandong University
+7/2011–6/2016   &nbsp;&nbsp;&nbsp; PhD, School of Computer Science and Technology, Shandong University
 
-9/2007–6/2011   Bachelor, School of Computer Science and Technology, Shandong University of Technology
+9/2007–6/2011   &nbsp; Bachelor, School of Computer Science and Technology, Shandong University of Technology
 
 # Work Experiences
 10/2021–Present	Professor, Master Instructor, School of Computer Science and Technology, Shandong Jianzhu University
