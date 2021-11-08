@@ -25,7 +25,7 @@
 2. Study on finger vein pattern extraction and recognition methods under uncontrolled environment, Nation Natural Science Foundation of China (NSFC), 2018.01-2020.12.
 
 # Selected Publications
-1. **Lu Yang**, Gongping Yang, Kuikui Wang, Fanchang Hao, Yilong Yin. Finger vein recognition via sparse reconstruction error constrained low-rank representation, 16, pp: 4869-4881, 2021. 
+1. **Lu Yang**, Gongping Yang, Kuikui Wang, Fanchang Hao, Yilong Yin. Finger vein recognition via sparse reconstruction error constrained low-rank representation, IEEE Transactions on Information Forensics and Security, 16, pp: 4869-4881, 2021. 
 2. **Lu Yang**, Gongping Yang, Xiaoming Xi, Kun Su, Qing Chen, Yilong Yin. Finger Vein Code: From Indexing to Matching, IEEE Transactions on Information Forensics and Security, 14(5), pp: 1210-1223, 2019. 
 3. **Lu Yang**, Gongping Yang, Yilong Yin, Xiaoming Xi. Finger Vein Recognition with Anatomy Structure Analysis. IEEE Transactions on Circuits and Systems for Video Technology, 28(8), pp:1892-1905, 2018. 
 4. **Lu Yang**, Gongping Yang, Yilong Yin, Xiaoming Xi. Exploring Soft Biometric Traits in Finger Vein Recognition. Neurocomputing, 135, pp: 218-228, 2014. 
