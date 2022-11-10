@@ -7,22 +7,17 @@
       <br>Email: yangluhi@163.com
   </tr>
  </table>
-  I'm Lu Yang (杨璐), I currently a Professor with the School of Computer Science and Techonology, Shandong Jianzhu University. I received the Ph.D. degree from the Shandong University, Jinan China, advised by Prof. Yilong Yin and Prof. Gongping Yang. My research focused on biometrics and pattern recognition. I obtained my bachelor's degree in Shandong University of Technology, Zibo China, in 2011.  
+  I'm Lu Yang (杨璐), I currently a Professor with the School of Computer Science and Techonology, Shandong Jianzhu University. I received the Ph.D. degree from the Shandong University, Jinan China, advised by Prof. Yilong Yin and Prof. Gongping Yang. My research focused on biometrics and pattern recognition.  
   
 # Educational Experiences
 7/2011–6/2016 &nbsp;&nbsp;&nbsp; PhD, School of Computer Science and Technology, Shandong University
 
 9/2007–6/2011 &nbsp;&nbsp;&nbsp; Bachelor, School of Computer Science and Technology, Shandong University of Technology
 
-# Work Experiences
-10/2021–Present	&nbsp;&nbsp;&nbsp; Professor, Master Instructor, School of Computer Science and Technology, Shandong Jianzhu University
-
-8/2016–9/2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lecturer, School of Computer Science and Technology, Shandong University of Finance and Economics
-
 # Funds
-1. Study on key problems of finger vein recognition for embedded applications, Nation Natural Science Foundation of China (NSFC), 2021.01-2024.12.
+1. Study on key problems of finger vein recognition for embedded applications, Nation Natural Science Foundation of China (NSFC)
 
-2. Study on finger vein pattern extraction and recognition methods under uncontrolled environment, Nation Natural Science Foundation of China (NSFC), 2018.01-2020.12.
+2. Study on finger vein pattern extraction and recognition methods under uncontrolled environment, Nation Natural Science Foundation of China (NSFC)
 
 # Selected Publications
 1. **Lu Yang**, Gongping Yang, Kuikui Wang, Fanchang Hao, Yilong Yin. Finger vein recognition via sparse reconstruction error constrained low-rank representation, IEEE Transactions on Information Forensics and Security, 16, pp: 4869-4881, 2021. 
