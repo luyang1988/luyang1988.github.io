@@ -9,11 +9,6 @@
  </table>
   I'm Lu Yang (杨璐), I currently a Professor with the School of Computer Science and Techonology, Shandong Jianzhu University. I received the Ph.D. degree from the Shandong University, Jinan China, advised by Prof. Yilong Yin and Prof. Gongping Yang. My research focused on biometrics and pattern recognition.  
   
-# Educational Experiences
-7/2011–6/2016 &nbsp;&nbsp;&nbsp; PhD, School of Computer Science and Technology, Shandong University
-
-9/2007–6/2011 &nbsp;&nbsp;&nbsp; Bachelor, School of Computer Science and Technology, Shandong University of Technology
-
 # Funds
 1. Study on key problems of finger vein recognition for embedded applications, Nation Natural Science Foundation of China (NSFC)
 
